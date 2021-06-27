@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Unreal Projects\\MazeGen\\Source\\MazeGen\\MazeGen.Build.cs",
+		"D:\\Unreal Projects\\MazeGen\\Source\\MazeGen.Target.cs",
+		"D:\\Unreal Projects\\MazeGen\\Source\\MazeGenEditor.Target.cs"
+	],
+	"EngineVersion": "5.0.0"
+}

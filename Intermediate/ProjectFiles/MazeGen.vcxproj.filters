@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\MazeGen.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{33D103F5-B27B-4C8E-94F2-BFE13C80DBF9}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\MazeGen.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\MazeGenEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{EF1A1950-7E96-40B1-849D-9F876B5FD822}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\MazeGen">
+      <UniqueIdentifier>{A9AC0396-45B3-486D-8AA6-30ECF5C0CC03}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\MazeGen\MazeField.cpp">
+      <Filter>Source\MazeGen</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MazeGen\MazeField.h">
+      <Filter>Source\MazeGen</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\MazeGen\MazeGen.Build.cs">
+      <Filter>Source\MazeGen</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\MazeGen\MazeGen.cpp">
+      <Filter>Source\MazeGen</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MazeGen\MazeGen.h">
+      <Filter>Source\MazeGen</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MazeGen\MazeGenCharacter.cpp">
+      <Filter>Source\MazeGen</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MazeGen\MazeGenCharacter.h">
+      <Filter>Source\MazeGen</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MazeGen\MazeGenGameMode.cpp">
+      <Filter>Source\MazeGen</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MazeGen\MazeGenGameMode.h">
+      <Filter>Source\MazeGen</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MazeGen\MazeGenHUD.cpp">
+      <Filter>Source\MazeGen</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MazeGen\MazeGenHUD.h">
+      <Filter>Source\MazeGen</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MazeGen\MazeGenProjectile.cpp">
+      <Filter>Source\MazeGen</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MazeGen\MazeGenProjectile.h">
+      <Filter>Source\MazeGen</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MazeGen\MyActor.cpp">
+      <Filter>Source\MazeGen</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MazeGen\MyActor.h">
+      <Filter>Source\MazeGen</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MazeGen\RandomMazeGenerator.cpp">
+      <Filter>Source\MazeGen</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MazeGen\RandomMazeGenerator.h">
+      <Filter>Source\MazeGen</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "MazeGen",
+			"Path": "D:\\Unreal Projects\\MazeGen\\Source\\MazeGen.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "MazeGenEditor",
+			"Path": "D:\\Unreal Projects\\MazeGen\\Source\\MazeGenEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
